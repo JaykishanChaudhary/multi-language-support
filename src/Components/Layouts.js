@@ -1,5 +1,5 @@
-import Header from "./header/header"
-import SideNavBar from "./asidebar/aside"
+import Header from "./HeaderComp/Headers"
+import SideNavBar from "./AsideBarComp/AsideBar"
 
 
 function Layout(){

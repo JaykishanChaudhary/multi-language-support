@@ -1,7 +1,6 @@
-import "./aside.css";
+import './AsideComp.css';
 import React from 'react';
 import {  useNavigate } from 'react-router-dom'; 
-import './aside.css'
 import { useTranslation } from 'react-i18next';
 
 const SideNavBar = () => {

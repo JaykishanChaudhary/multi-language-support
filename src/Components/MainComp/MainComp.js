@@ -1,5 +1,5 @@
-import Form from "../form/form";
-import Layout from "../layout";
+import Form from "../FormComp/Forms";
+import Layout from "../Layouts";
 
 
 
