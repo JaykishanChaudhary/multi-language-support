@@ -11,11 +11,11 @@
     max-height: 50rem;
     width: 40rem;
     margin-left: 35rem;
-    margin-top: 11rem;
+    margin-top: -50rem;
 }
 
 h1{
-    margin-top: 5rem;
+    /* margin-top: 5rem; */
 }
 
 *{
