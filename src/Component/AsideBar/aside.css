@@ -1,0 +1,51 @@
+.sidebarconatiner {
+    /* background-color: E1F9F4; */
+    background-color: #E1F9F4;
+    width: 30rem;
+    height: 65rem;
+    margin-top: -2.7rem;
+}
+
+.logooption {
+    display: flex;
+    margin-top: 10rem;
+    margin-left: 4rem;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 44px;
+    color: #1A1B1C;
+
+}
+
+.navvalue {
+    margin-left: 20px;
+}
+
+.property {
+    color: #2289FF;
+}
+
+.sidesubcontainer {
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 10rem;
+    gap: 10rem;
+}
+
+
+.sideoption {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+header {
+    height: 50px; /* Adjust the height as needed */
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis; /* Optional: Add an ellipsis for clipped text */
+  }
