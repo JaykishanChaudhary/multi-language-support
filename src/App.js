@@ -3,8 +3,8 @@ import { BrowserRouter, Routes, Route } from "react-router-dom"
 import { I18nextProvider } from 'react-i18next';
 import i18next from 'i18next';
 import './i18n';
-import Home from './Component/Main/main';
-import AboutPage from './Component/AbouPage';
+import Home from './component/main/main';
+import AboutPage from './component/aboutpage';
 
 
 function App() {

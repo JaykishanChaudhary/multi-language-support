@@ -1,5 +1,5 @@
-import Layout from "./Layout";
-import About from "./About/About";
+import Layout from "./layout";
+import About from "./about/about";
 
 
 

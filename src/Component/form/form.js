@@ -1,4 +1,4 @@
-import '../form/form.css';
+import './form.css';
 import { useTranslation } from 'react-i18next';
 
 
